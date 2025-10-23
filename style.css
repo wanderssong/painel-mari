@@ -138,7 +138,7 @@ header {
 
 /* NOVO FUNDO ANIMADO 3D PARA LOGIN */
 body.login-mode {
-    background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+    background: linear-gradient(135deg, #02200e, #5a0101, #fa5a03);
     background-size: 400% 400%;
     animation: gradientShift 10s ease infinite;
 }
