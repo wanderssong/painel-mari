@@ -1,4 +1,4 @@
-const ultimaAtualizacao = "18/11/2025"; // SEMPRE ATUALIZAR
+const ultimaAtualizacao = "14/11/2025"; // SEMPRE ATUALIZAR
 const dadosEmpresas = [
     {
         nome: "ESPAÇO FIT DA MARI",
@@ -20,6 +20,7 @@ const dadosEmpresas = [
             { data: "12-11-2025", valor: 40.00, descricao: "SECA BARRIGA" },
             { data: "14-11-2025", valor: 80.00, descricao: "DETOX" },
             { data: "18-11-2025", valor: 80.00, descricao: "clima natalino" },
+            { data: "21-11-2025", valor: 80.00, descricao: "Video Hyper" },
 
         ]
     },
