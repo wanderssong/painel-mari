@@ -24,6 +24,7 @@ const dadosEmpresas = [
             { data: "28-11-2025", valor: 80.00, descricao: "Espaço fit" },
             { data: "02-12-2025", valor: 100.00, descricao: "Espaço fit" },
             { data: "12-12-2025", valor: 50.00, descricao: "DETOX" },
+            { data: "15-12-2025", valor: 80.00, descricao: "HYPER WPP" },
 
         ]
     },
