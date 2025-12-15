@@ -5,6 +5,7 @@ const dadosEmpresas = [
         depositos: [
             { data: "16-10-2025", valor: 500 },
             { data: "14-11-2025", valor: 550 },
+            { data: "15-12-2025", valor: 550 },
             
             
             
